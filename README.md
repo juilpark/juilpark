@@ -1,6 +1,6 @@
 ### DevSecOps
 - Network knowledge at the CCNA level
-- Working as Server Administartor
+- Worked as Server Administrator
 - Newbie on Cloud System
 
 ### Interest
